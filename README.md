@@ -1,5 +1,8 @@
 #Demo 2
 
-Some text
+Some
 
 It was not uploaded? 
+
+#local development
+Remember to push this to the master file and upload to github.
